@@ -1,4 +1,10 @@
 package Ejercicio1;
+/*
+* Autor: Johana Lainez
+* Programa: Importadora de Vehiculos
+* Descripcion: Calcular el precio final que deberia pagar el cliente para ingresar su vehiculo al pais
+* Fecha 25/02/2025
+ */
 import java.util.Scanner;
 
 public class ejercicio1 {
