@@ -6,7 +6,7 @@ Este repositorio contiene la solución evaluativa de la **Guía de Ejercicios 1*
 
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Estructura del Proyecto](#estructura-del-proyecto)
-- [Instrucciones Generales](#instrucciones-generales)
+- [Instrucciones Generales](#inZstrucciones-generales)
 - [Detalles de Ejercicios](#detalles-de-ejercicios)
     - [Ejercicio 1: Importadora de Vehículos](#ejercicio-1-importadora-de-vehículos)
     - [Ejercicio 2: Encomiendas Express](#ejercicio-2-encomiendas-express)
